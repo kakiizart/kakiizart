@@ -10,13 +10,12 @@
 ---
 
 ### What I’m building
-- **NerdSTUFF (Ethical Hacking, Pentest+, Networks)** — a staged home-lab + project series  
+- **NerdSTUFF (Ethical Hacking, Pentest+, Networks, AI/ML, Automation)** — a staged home-lab + project series  
   - **Phase 0–1:** pfSense / Tailscale / Twingate · Proxmox/VMware · VLAN/DNS/VPN  
   - **Phase 2:** Offensive lab (DVWA, Fluxion, SIP spoof sim, stego/fileless demos)  
   - **Phase 3:** Detection & DFIR (Wazuh/Splunk pipelines, rules, dashboards)  
   - **Phase 4:** Automation & LLMs (Ollama, GGUF, Hugging Face, n8n flows)  
   - **Phase 5–6:** VPS hardening (Hostinger), docs, scripted installs, evidence capture
-- **ErieRide** — civic mobile app work (research, privacy & security, payments, reviews)
 
 ---
 
