@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/kakiizart?tab=repositories">Projects</a> •
-  <a href="https://linkedin.com/in/Kim Kakiiza">LinkedIn</a> •
+  <a href="www.linkedin.com/in/kim-kakiiza-4980732aa">LinkedIn</a> •
   <a href="mailto:kimkakiiza@gmail.com">Email</a>
 </p>
 
