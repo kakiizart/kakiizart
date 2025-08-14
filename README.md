@@ -9,13 +9,14 @@
 
 ---
 
-### What I’m building
-- **NerdSTUFF (Ethical Hacking, Pentest+, Networks, AI/ML, Automation)** — a staged home-lab + project series  
-  - **Phase 0–1:** pfSense / Tailscale / Twingate · Proxmox/VMware · VLAN/DNS/VPN  
-  - **Phase 2:** Offensive lab (DVWA, Fluxion, SIP spoof sim, stego/fileless demos)  
-  - **Phase 3:** Detection & DFIR (Wazuh/Splunk pipelines, rules, dashboards)  
-  - **Phase 4:** Automation & LLMs (Ollama, GGUF, Hugging Face, n8n flows)  
-  - **Phase 5–6:** VPS hardening (Hostinger), docs, scripted installs, evidence capture
+### About Me
+- 🛡️ Junior CS student focused on **cybersecurity**, **ethical hacking**, and **AI/automation**.
+- 🧪 I design repeatable **home-lab** projects and document everything: setup scripts, attack/detect walkthroughs, and readmes.
+- 🧰 Daily drivers: Kali, Burp, Wireshark, pfSense, Proxmox/VMware, Docker, Python, MySQL, OpenCV, TensorFlow/PyTorch, Raspberry Pi/CM5.
+- 🔎 Blue+Red: building detections with **Wazuh/Splunk**, then validating with adversary simulations (DVWA, Fluxion, stego/fileless demos).
+- 🤖 Local AI: **Ollama + GGUF + Hugging Face** and **n8n** automations for security workflows.
+- 🎯 Working toward **Security+ / Network+ / CEH** and stronger DFIR chops.
+- 💬 Reach me on <a href="https://www.linkedin.com/in/kim-kakiiza-4980732aa/">LinkedIn</a> or <a href="mailto:kimkakiiza@gmail.com">Email</a>.
 
 ---
 
