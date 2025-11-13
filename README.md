@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About
 I’m a CS student shaping a path toward **software engineering, ML engineering, and automation systems**.  
-I build things end-to-end — from backend APIs to ML pipelines to deployment and monitoring.  
+I'm currently learning how to build things end-to-end — from backend APIs to ML pipelines to deployment and monitoring.  
 My work blends **clean engineering**, **model experimentation**, and **practical problem-solving**.  
 
 I focus on:
